@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I am Samuel Edokpa
+👋
+I am an aspiring Technology Degree Apprentice building foundations in modern software development. I love solving logical puzzles, debugging code, and learning how scalable technology works.
+
+My Tech Stack and Tools
+Languages: C (Learning), Python (Learning), HTML/CSS, SQL (Learning)
+Tools : VS Code, Git, Github, CS50 Codespace
+Currently Learning: Memory management, algorithms, and programmatic problem solving.
+
 
 <!--
 **samueledokpa/samueledokpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
